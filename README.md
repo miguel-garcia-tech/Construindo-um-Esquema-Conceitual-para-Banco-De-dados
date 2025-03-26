@@ -1,12 +1,12 @@
 # Construindo-um-Esquema-Conceitual-para-Banco-De-dados
 Criando um esquema conceitual do zero. A partir da narrativa fornecida, criei todas as entidades, relacionamentos e atributos.
-#Objetivo:
+## Objetivo:
 Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
 # Software usado para modelagem
 - MySQL Workbench
 
-# Narrativa:
+## Narrativa:
 - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
 
 - Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas
